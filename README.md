@@ -13,6 +13,13 @@ Then I looked for a solution...
 I tried this: git config --global http.sslverify "false"
 
 ![image](https://user-images.githubusercontent.com/73625373/125506867-6e4467a8-bdcf-424f-8f79-6f1b29ce01e6.png)
+
 Given by https://www.programmersought.com/article/10383789790/
 
 And it worked! Thank you programmersought.com! :)
+
+Oh, another thing that I've remembered!
+I've noticed that when using VS Code, we don't need to create a folder locally beforehand as when using the Git Extensions tool. I still need to double check this. Although it will take a while cause I've been having problems in using Git Extensions... Another experience to be told at another time :)
+
+Good evening to whoever is on that side! Hehe :)
+Bye for now! 
