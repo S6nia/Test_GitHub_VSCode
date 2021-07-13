@@ -28,3 +28,8 @@ Oh, here I am again! :)
 I did not understand the last commit... I did not merge, at least intentionally!
 
 Also, I observed another thing: There was a commit performed by another me, I mean by another account of mine... I'm too tired to explain... All I want to do is cooooding! 
+
+Here is a screenshot:
+![image](https://user-images.githubusercontent.com/73625373/125516338-18f17106-d787-4946-8681-c402ab598aee.png)
+
+Now, it's time to eat! A developer got to eat! :)
