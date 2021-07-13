@@ -23,3 +23,8 @@ I've noticed that when using VS Code, we don't need to create a folder locally b
 
 Good evening to whoever is on that side! Hehe :)
 Bye for now! 
+
+Oh, here I am again! :)
+I did not understand the last commit... I did not merge, at least intentionally!
+
+Also, I observed another thing: There was a commit performed by another me, I mean by another account of mine... I'm too tired to explain... All I want to do is cooooding! 
